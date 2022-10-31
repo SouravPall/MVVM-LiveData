@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MVVM-LiveData</string>
+    <string name="textView_name">Random Number</string>
+    <string name="button_name">Change Data</string>
 </resources>
